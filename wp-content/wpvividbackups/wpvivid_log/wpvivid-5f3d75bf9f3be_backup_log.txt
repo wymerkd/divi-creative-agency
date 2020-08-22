@@ -1,0 +1,106 @@
+Log created: 2020-08-19 18:55:59
+Type: backup
+[2020-08-19 18:56:04][notice]Start backing up.
+[2020-08-19 18:56:04][notice]server info fcgi:Off max execution time: 900 wp version:5.4.2 php version:7.4.2 db version:5.7.26 php ini:safe_mode: memory_limit:256M memory_get_usage:49.17 MB memory_get_peak_usage:49.37 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2020-08-19 18:56:04][notice]Prepare to backup backup_db files.
+[2020-08-19 18:56:04][notice]Start exporting database.
+[2020-08-19 18:56:04][notice]max_allowed_packet less than 32M :4.00 MB
+[2020-08-19 18:56:04][notice]Preparing to dump table wp_actionscheduler_actions
+[2020-08-19 18:56:04][notice]Preparing to dump table wp_actionscheduler_claims
+[2020-08-19 18:56:04][notice]Preparing to dump table wp_actionscheduler_groups
+[2020-08-19 18:56:04][notice]Preparing to dump table wp_actionscheduler_logs
+[2020-08-19 18:56:04][notice]Preparing to dump table wp_commentmeta
+[2020-08-19 18:56:04][notice]Preparing to dump table wp_comments
+[2020-08-19 18:56:04][notice]Preparing to dump table wp_links
+[2020-08-19 18:56:04][notice]Preparing to dump table wp_options
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_postmeta
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_posts
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_term_relationships
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_term_taxonomy
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_termmeta
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_terms
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_usermeta
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_users
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_wc_admin_note_actions
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_wc_admin_notes
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_wc_category_lookup
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_wc_customer_lookup
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_wc_download_log
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_wc_order_coupon_lookup
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_wc_order_product_lookup
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_wc_order_stats
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_wc_order_tax_lookup
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_wc_product_meta_lookup
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_wc_reserved_stock
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_wc_tax_rate_classes
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_wc_webhooks
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_woocommerce_api_keys
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_woocommerce_attribute_taxonomies
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_woocommerce_downloadable_product_permissions
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_woocommerce_log
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_woocommerce_order_itemmeta
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_woocommerce_order_items
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_woocommerce_payment_tokenmeta
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_woocommerce_payment_tokens
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_woocommerce_sessions
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_woocommerce_shipping_zone_locations
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_woocommerce_shipping_zone_methods
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_woocommerce_shipping_zones
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_woocommerce_tax_rate_locations
+[2020-08-19 18:56:05][notice]Preparing to dump table wp_woocommerce_tax_rates
+[2020-08-19 18:56:05][notice]Exporting database finished.
+[2020-08-19 18:56:05][notice]Start compressing backup_db
+[2020-08-19 18:56:06][notice]Prepare to zip files. file: localhost_diviness_wpvivid-5f3d75bf9f3be_2020-08-19-18-55_backup_db.zip
+[2020-08-19 18:56:06][notice]Adding zip files completed.localhost_diviness_wpvivid-5f3d75bf9f3be_2020-08-19-18-55_backup_db.zip, filesize: 1.16 MB
+[2020-08-19 18:56:06][notice]Compressing backup_db completed
+[2020-08-19 18:56:06][notice]Backing up backup_db completed.
+[2020-08-19 18:56:06][notice]Prepare to backup backup_themes files.
+[2020-08-19 18:56:06][notice]File number: 1091
+[2020-08-19 18:56:06][notice]Start compressing backup_themes
+[2020-08-19 18:56:06][notice]Prepare to zip files. file: localhost_diviness_wpvivid-5f3d75bf9f3be_2020-08-19-18-55_backup_themes.zip
+[2020-08-19 18:56:10][notice]Adding zip files completed.localhost_diviness_wpvivid-5f3d75bf9f3be_2020-08-19-18-55_backup_themes.zip, filesize: 38.65 MB
+[2020-08-19 18:56:10][notice]Compressing backup_themes completed
+[2020-08-19 18:56:10][notice]Backing up backup_themes completed.
+[2020-08-19 18:56:10][notice]Prepare to backup backup_plugin files.
+[2020-08-19 18:56:10][notice]File number: 4126
+[2020-08-19 18:56:10][notice]Start compressing backup_plugin
+[2020-08-19 18:56:11][notice]Prepare to zip files. file: localhost_diviness_wpvivid-5f3d75bf9f3be_2020-08-19-18-55_backup_plugin.zip
+[2020-08-19 18:56:26][notice]Adding zip files completed.localhost_diviness_wpvivid-5f3d75bf9f3be_2020-08-19-18-55_backup_plugin.zip, filesize: 50.59 MB
+[2020-08-19 18:56:26][notice]Compressing backup_plugin completed
+[2020-08-19 18:56:26][notice]Backing up backup_plugin completed.
+[2020-08-19 18:56:26][notice]Prepare to backup backup_uploads files.
+[2020-08-19 18:56:26][notice]File number: 495
+[2020-08-19 18:56:26][notice]Start compressing backup_uploads
+[2020-08-19 18:56:26][notice]Prepare to zip files. file: localhost_diviness_wpvivid-5f3d75bf9f3be_2020-08-19-18-55_backup_uploads.zip
+[2020-08-19 18:56:28][notice]Adding zip files completed.localhost_diviness_wpvivid-5f3d75bf9f3be_2020-08-19-18-55_backup_uploads.zip, filesize: 20.04 MB
+[2020-08-19 18:56:28][notice]Compressing backup_uploads completed
+[2020-08-19 18:56:28][notice]Backing up backup_uploads completed.
+[2020-08-19 18:56:28][notice]Prepare to backup backup_content files.
+[2020-08-19 18:56:28][notice]File number: 7
+[2020-08-19 18:56:28][notice]Start compressing backup_content
+[2020-08-19 18:56:28][notice]Prepare to zip files. file: localhost_diviness_wpvivid-5f3d75bf9f3be_2020-08-19-18-55_backup_content.zip
+[2020-08-19 18:56:28][notice]Adding zip files completed.localhost_diviness_wpvivid-5f3d75bf9f3be_2020-08-19-18-55_backup_content.zip, filesize: 2.57 MB
+[2020-08-19 18:56:28][notice]Compressing backup_content completed
+[2020-08-19 18:56:28][notice]Backing up backup_content completed.
+[2020-08-19 18:56:28][notice]Prepare to backup backup_core files.
+[2020-08-19 18:56:28][notice]File number: 1669
+[2020-08-19 18:56:28][notice]Start compressing backup_core
+[2020-08-19 18:56:28][notice]Prepare to zip files. file: localhost_diviness_wpvivid-5f3d75bf9f3be_2020-08-19-18-55_backup_core.zip
+[2020-08-19 18:56:33][notice]Adding zip files completed.localhost_diviness_wpvivid-5f3d75bf9f3be_2020-08-19-18-55_backup_core.zip, filesize: 39.70 MB
+[2020-08-19 18:56:33][notice]Compressing backup_core completed
+[2020-08-19 18:56:33][notice]Backing up backup_core completed.
+[2020-08-19 18:56:33][notice]Prepare to backup backup_merge files.
+[2020-08-19 18:56:33][notice]File number: 6
+[2020-08-19 18:56:33][notice]Start compressing backup_merge
+[2020-08-19 18:56:34][notice]Prepare to zip files. file: localhost_diviness_wpvivid-5f3d75bf9f3be_2020-08-19-18-55_backup_all.zip
+[2020-08-19 18:56:48][notice]Adding zip files completed.localhost_diviness_wpvivid-5f3d75bf9f3be_2020-08-19-18-55_backup_all.zip, filesize: 54.87 MB
+[2020-08-19 18:56:48][notice]Cleaned up file, filename: /Users/wymerkd/Sites/diviness/wp-content/wpvividbackups/localhost_diviness_wpvivid-5f3d75bf9f3be_2020-08-19-18-55_backup_plugin.zip
+[2020-08-19 18:56:48][notice]Cleaned up file, filename: /Users/wymerkd/Sites/diviness/wp-content/wpvividbackups/localhost_diviness_wpvivid-5f3d75bf9f3be_2020-08-19-18-55_backup_core.zip
+[2020-08-19 18:56:48][notice]Cleaned up file, filename: /Users/wymerkd/Sites/diviness/wp-content/wpvividbackups/localhost_diviness_wpvivid-5f3d75bf9f3be_2020-08-19-18-55_backup_themes.zip
+[2020-08-19 18:56:48][notice]Cleaned up file, filename: /Users/wymerkd/Sites/diviness/wp-content/wpvividbackups/localhost_diviness_wpvivid-5f3d75bf9f3be_2020-08-19-18-55_backup_uploads.zip
+[2020-08-19 18:56:48][notice]Cleaned up file, filename: /Users/wymerkd/Sites/diviness/wp-content/wpvividbackups/localhost_diviness_wpvivid-5f3d75bf9f3be_2020-08-19-18-55_backup_content.zip
+[2020-08-19 18:56:48][notice]Cleaned up file, filename: /Users/wymerkd/Sites/diviness/wp-content/wpvividbackups/localhost_diviness_wpvivid-5f3d75bf9f3be_2020-08-19-18-55_backup_db.zip
+[2020-08-19 18:56:48][notice]Compressing backup_merge completed
+[2020-08-19 18:56:48][notice]Backing up backup_merge completed.
+[2020-08-19 18:56:48][notice]Backup completed.
+[2020-08-19 18:56:48][notice]Backup succeeded.
